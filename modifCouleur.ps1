@@ -1,0 +1,1 @@
+﻿$host.PrivateData.ErrorForegroundColor = "Magenta"
